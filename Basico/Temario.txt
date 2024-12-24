@@ -1,0 +1,10 @@
+sintaxis basica
+variables
+tipos de datos
+operadores aritméticos
+operadores de asignacion agregada
+operadores relacionales
+operadores logicos
+sentencias de control
+sentencias repetitivas
+entrada y salida

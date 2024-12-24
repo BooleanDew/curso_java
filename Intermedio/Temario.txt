@@ -1,0 +1,5 @@
+funciones
+parámetros y argumentos
+estructura de datos
+funciones puras e impuras
+Manipulacion de archivos

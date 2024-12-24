@@ -1,0 +1,10 @@
+clases
+atributos
+metodos
+encapsulamiento
+objetos
+herencia
+polimorfismo
+abstracción
+
+interfaces
