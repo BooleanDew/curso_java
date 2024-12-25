@@ -16,7 +16,7 @@ En este nivel, aprenderás los bloques de construcción de la programación en J
 * **Bucles:** `for`, `while`, `do-while`.
 * **Entrada/Salida:**  `Scanner` para entrada de usuario, `System.out.println()` para salida.
 
-[https://www.youtube.com/watch?v=bvFjWmGR7Ug&list=PLrJ1K5nLZIme1Mse4d6BxCTCyATZRFDAA]
+https://www.youtube.com/watch?v=bvFjWmGR7Ug&list=PLrJ1K5nLZIme1Mse4d6BxCTCyATZRFDAA
 
 
 ### Nivel Intermedio: Programación Estructurada (Intermediate)
@@ -29,7 +29,7 @@ Profundizaremos en la programación estructurada y el manejo de datos.
 * **Manejo de Archivos:** Lectura y escritura de archivos de texto.
 * **Funciones Puras e Impuras:**  Diferencias y ejemplos.
 
-[https://www.youtube.com/watch?v=bvFjWmGR7Ug&list=PLrJ1K5nLZIme1Mse4d6BxCTCyATZRFDAA]
+https://www.youtube.com/watch?v=bvFjWmGR7Ug&list=PLrJ1K5nLZIme1Mse4d6BxCTCyATZRFDAA
 
 
 ### Nivel Avanzado: Programación Orientada a Objetos (Advanced)
@@ -42,7 +42,7 @@ Aprenderás los principios de la POO para crear aplicaciones robustas y escalabl
 * **Encapsulamiento:**  Modificadores de acceso (`public`, `private`, `protected`).
 * **Abstracción:**  Interfaces y clases abstractas.
 
-[https://www.youtube.com/watch?v=bvFjWmGR7Ug&list=PLrJ1K5nLZIme1Mse4d6BxCTCyATZRFDAA]
+https://www.youtube.com/watch?v=bvFjWmGR7Ug&list=PLrJ1K5nLZIme1Mse4d6BxCTCyATZRFDAA
 
 
 ## Cómo Contribuir
@@ -57,14 +57,14 @@ Si deseas contribuir a este proyecto, por favor, sigue estos pasos:
 
 ## Licencia
 
-[MIT License]
+MIT License
 
 
 ## Autores
 
-* [BooleanDew]
+* BooleanDew
 
 
 ## Contacto
 
-[https://www.youtube.com/@booleandew]
+https://www.youtube.com/@booleandew
