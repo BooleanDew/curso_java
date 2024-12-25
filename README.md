@@ -1,4 +1,4 @@
-# Curso Java: De Principiante a Experto 🚀
+# Curso Java: De Principiante a Avanzado 🚀
 
 ¡Bienvenido al curso de Java!  Este repositorio te guiará a través de los fundamentos y conceptos avanzados de programación en Java.  Prepárate para convertirte en un desarrollador Java pro!
 
